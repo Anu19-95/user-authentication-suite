@@ -1,0 +1,6 @@
+{
+  "name": "User Authentication Suite",
+  "description": "A comprehensive and modular user authentication suite featuring sign in, registration with password strength analysis, two-factor authentication (2FA), password reset workflows, active session management, and security audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
