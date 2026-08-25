@@ -2,7 +2,7 @@
 
 AuthSuite is a polished front-end demonstration of an enterprise identity and access management experience. It brings common authentication workflows into one interface, including password sign-in, account creation, password recovery, magic-link login, two-factor authentication, session management, role-based access control, and security audit logs.
 
-Intern ID: CT-5275
+Intern ID: CITS7955
 
 ## Features
 
